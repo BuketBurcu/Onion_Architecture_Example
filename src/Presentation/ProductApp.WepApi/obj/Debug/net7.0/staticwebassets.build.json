@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "a91w6PdoBQo69jzjY4SbsTkkReqYcrlUz0HOmV4y/nU=",
+  "Source": "ProductApp.WepApi",
+  "BasePath": "_content/ProductApp.WepApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
